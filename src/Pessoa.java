@@ -68,6 +68,8 @@ public class Pessoa {
         Pessoa pessoa2 = new Pessoa("p2" , "Maria Roja", "Masculino", 21);
         Pessoa pessoa3 = new Pessoa("p3" , "Anecy Fernandes","LGBTQIA+", 50);
         Pessoa pessoa4 = new Pessoa("p4" , "Neymar Junior", "Sem Genero", 34);
+        Pessoa pessoa5 = new Pessoa("p5" , "Marta Rita", "Feminino", 25);
+        Pessoa pessoa6 = new Pessoa("p6" , "Jonas Mario", "Masculion", 45);
         return List.of(pessoa1,pessoa2,pessoa3,pessoa4);
     }
 
